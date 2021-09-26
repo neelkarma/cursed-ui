@@ -4,6 +4,10 @@ module.exports = {
   darkMode: false,
   theme: {
     extend: {},
+    fontFamily: {
+      sans: ["Inter", "sans-serif"],
+      mono: "consolas",
+    },
   },
   variants: {
     extend: {},

@@ -6,4 +6,4 @@ Hopefully they're alright.
 
 ## How to Run
 
-This is a NextJS project, so use `next dev` to run the development server and `next export` to export to static html. No server-side rendering is used here, so you don't have to worry about that.
+This is a NextJS project, so use `yarn dev` to run the development server and `yarn build` to export to static html. No server-side rendering is used here, so you don't have to worry about that.
